@@ -61,7 +61,3 @@ The application uses SQLite for storing:
 - Contacts
 - Web commands
 - System commands
-
-## License
-
-[MIT License](LICENSE)
