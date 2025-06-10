@@ -1,0 +1,70 @@
+# Python virtual environment
+envbug/
+venv/
+ENV/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Database files (optional, uncomment if you don't want to track database changes)
+# *.db
+# *.sqlite
+# *.sqlite3
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Media files that might be large
+*.mp3
+*.wav
+*.mp4
+
+# Cookies and session data
+cookies.json
+contacts.csv
+bug.db
+device.bat
+# Device connection files (might contain sensitive info)
+# device.bat
